@@ -1,0 +1,35 @@
+p{
+    display: inline-block;
+}
+ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+ul li.p,li.pp{
+    display: inline-block;
+}
+.content{
+    margin: 0 auto;
+    width: 50%;
+}
+.left{
+    background: lightslategrey;
+    height: 10%;
+}
+.A,.B,.C,.D,.E{
+    height: 18%;
+}
+h3{
+    background: lightsteelblue;
+    float: left;
+    width: 20%;
+    height: 99%;
+    text-align: center;
+    line-height: 120px;
+    margin: 0;
+}
+h1{
+    line-height: 90px;
+    padding-left: 48px;
+}
