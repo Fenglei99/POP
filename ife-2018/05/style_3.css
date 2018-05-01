@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+    padding: 0;
+}
 p{
     display: inline-block;
 }
@@ -16,15 +20,17 @@ ul li.p,li.pp{
 .left{
     background: lightslategrey;
     height: 10%;
+    margin: 0;
 }
 .A,.B,.C,.D,.E{
-    height: 18%;
+    height: 17.6%;
+    border-bottom: solid #E9E9E9;
 }
 h3{
     background: lightsteelblue;
     float: left;
     width: 20%;
-    height: 99%;
+    height: 100%;
     text-align: center;
     line-height: 120px;
     margin: 0;
